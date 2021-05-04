@@ -23,9 +23,7 @@ Introduce more about KMeans, and some problems related to that. Give some exampl
 1. Vector
 
     write in form 
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8101e5af-dadc-4073-9a65-d78bac6a8494/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8101e5af-dadc-4073-9a65-d78bac6a8494/Untitled.png)
-
+\matrix{1|⋯|⋮|⋰|1|⋯|1|⋮|1}  
 2. Matrix/Np array
 
     Np array cơ bản là 1 list. Numpy list. Dùng numpy ở đây vì trong numpy có công thức tính kc vector có sẵn 
