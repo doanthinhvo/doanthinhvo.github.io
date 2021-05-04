@@ -141,3 +141,4 @@ Summary your result
 # 6. Acknowledgement
 
 # 7. Source code and PDF report
+\begin{equation} \tag{1}\label{eq:1} \sum_{k=1}^{K} y_{ik} = 1 \end{equation}
